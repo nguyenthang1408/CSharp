@@ -1,0 +1,9 @@
+D:\m97\C# Prog New\xx\新建文件夹\xxx\New folder\Scan-937-2\Scan-937-2\bin\Debug\Scan-937-2.exe.config
+D:\Thang\C#\Scan-937-2\Scan-937-2\bin\Debug\Scan-937-2.exe.config
+D:\Thang\C#\Scan-937-2\Scan-937-2\bin\Debug\Scan-937-2.exe
+D:\Thang\C#\Scan-937-2\Scan-937-2\bin\Debug\Scan-937-2.pdb
+D:\Thang\C#\Scan-937-2\Scan-937-2\obj\Debug\Scan_937_2.Form1.resources
+D:\Thang\C#\Scan-937-2\Scan-937-2\obj\Debug\Scan_937_2.Properties.Resources.resources
+D:\Thang\C#\Scan-937-2\Scan-937-2\obj\Debug\Scan-937-2.csproj.GenerateResource.Cache
+D:\Thang\C#\Scan-937-2\Scan-937-2\obj\Debug\Scan-937-2.exe
+D:\Thang\C#\Scan-937-2\Scan-937-2\obj\Debug\Scan-937-2.pdb
