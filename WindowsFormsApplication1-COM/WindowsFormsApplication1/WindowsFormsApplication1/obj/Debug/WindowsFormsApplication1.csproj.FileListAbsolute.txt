@@ -17,3 +17,6 @@ E:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\ob
 F:\WindowsFormsApplication1-COM\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 F:\WindowsFormsApplication1-COM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 F:\WindowsFormsApplication1-COM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Thang\C#\WindowsFormsApplication1-COM\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Thang\C#\WindowsFormsApplication1-COM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Thang\C#\WindowsFormsApplication1-COM\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -7,3 +7,5 @@ D:\Thang\C#\Scan-937\Scan-937\obj\Debug\Scan_937.Properties.Resources.resources
 D:\Thang\C#\Scan-937\Scan-937\obj\Debug\Scan-937.csproj.GenerateResource.Cache
 D:\Thang\C#\Scan-937\Scan-937\obj\Debug\Scan-937.exe
 D:\Thang\C#\Scan-937\Scan-937\obj\Debug\Scan-937.pdb
+D:\Thang\C#\Scan-937\Scan-937\obj\Debug\Scan-937.csprojResolveAssemblyReference.cache
+D:\Thang\C#\Scan-937\Scan-937\obj\Debug\Scan_937.Form2.resources

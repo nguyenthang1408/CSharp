@@ -1,0 +1,16 @@
+D:\thang\Kho\Kho\bin\Debug\Kho.exe.config
+D:\thang\Kho\Kho\bin\Debug\Kho.exe
+D:\thang\Kho\Kho\bin\Debug\Kho.pdb
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Kho.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Nhập_Hàng.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Properties.Resources.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Quản_Lý_Mượn_Trả.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Quản_Lý.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Setting.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Thêm_Sản_Phẩm.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Xuất_Hàng.resources
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.csproj.GenerateResource.Cache
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.exe
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.pdb
+D:\thang\Kho\Kho\obj\x86\Debug\Kho.Phiếu_Xuất_Kho.resources
+D:\thang\Kho\Kho\bin\Debug\Aspose.Words.dll

@@ -410,7 +410,7 @@ namespace WindowsFormsApplication1
 
         private void cOMToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Setting.settings: com: COM2 + baud: 115200","Configured COM Connection ");
+             MessageBox.Show("Setting.settings: com: COM2 + baud: 115200","Configured COM Connection ");
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)

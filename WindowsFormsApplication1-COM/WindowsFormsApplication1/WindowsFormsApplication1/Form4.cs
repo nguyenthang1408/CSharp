@@ -21,7 +21,7 @@ namespace WindowsFormsApplication1
         }
         Setting st = new Setting();
         SerialPort P2 = new SerialPort();
-        //ScanerHook scaner1;
+        // ScanerHook scaner1;
         string str;
         //private void Scaner_ScanerEvent(ScanerHook.ScanerCodes codes)
         //{
